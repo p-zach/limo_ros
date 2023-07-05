@@ -3,4 +3,4 @@ project(limo_description)
 
 find_package(catkin REQUIRED)
 
-
+add_compile_options(-std=c++11)
